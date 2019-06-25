@@ -37,14 +37,13 @@ header{
   background-size: cover;
   position: relative;
 }
-.column {
-  margin-left: 20PX;
+/*.column {
   float: left;
-  width: 20.33%;
-  padding-right: 10px;
-}
+  width: 33.33%;
+  padding-right: 40px;
+}*/
 
-/* Clear floats after the columns */
+/* Clear floats after the columns 
 .row:after {
   content: "";
   display: table;
@@ -53,15 +52,18 @@ header{
 .column {
   float: left;
   width: 30%;
-}
+}*/
 
-/* Clear floats after the columns */
+/* Clear floats after the columns
 .row:after {
   content: "";
   display: table;
   clear: both;
+}*/
+.ul
+{
+  font-family:  sans-serif;
 }
-
 .footer
 {
   background-color:maroon;
