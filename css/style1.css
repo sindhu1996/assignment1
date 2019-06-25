@@ -2,19 +2,20 @@ body{
 background-image:url("https://img.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58930.jpg?size=626&ext=jpg");
 margin-right: 10px;
 }
-
+/*style the header*/
 header{
   margin: none;
   width: 100%;
   height: auto;
   overflow: hidden;
-  background-color:black;
+  background-color:grey;
 }
+/* style the navigation bar*/
 .topnav-right a{
     float:right;
     text-align: center;
     padding-right: 20px;
-    color: grey;
+    color:white;
     font-family: sans-serif;
     text-decoration: none;
     font-size: 25px;
