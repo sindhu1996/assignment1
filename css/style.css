@@ -1,0 +1,75 @@
+
+    body{
+  /*background-image:url("https://img.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58930.jpg?size=626&ext=jpg");
+  */margin-right: 10px;
+  }
+  /*style the header*/
+  header{
+    margin: none;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-color:black;
+    position: fixed;
+  }
+  /* style the navigation bar*/
+  .topnav-right a{
+      float:right;
+      text-align: center;
+      padding-right: 20px;
+      color:white;
+      font-family: sans-serif;
+      text-decoration: none;
+      font-size: 25px;
+  }
+  
+  .topnav-right a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+  
+  .hero-image {
+    /* Use "linear-gradient" to add a darken background effect to the image . This will make the text easier to read */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://scrolltoday.com/wp-content/uploads/2017/03/fp7.jpg");
+    /* Set a specific height */
+    height: 50%;
+   /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: default;
+  }
+  /*.column {
+    float: left;
+    width: 33.33%;
+    padding-right: 40px;
+  }*/
+  
+  /* Clear floats after the columns 
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .column {
+    float: left;
+    width: 30%;
+  }*/
+  
+  /* Clear floats after the columns
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }*/
+  .ul
+  {
+    font-family:  sans-serif;
+  }
+  .footer
+  {
+    background-color:black;
+    color:white;
+    text-align:center;
+    }
+  
